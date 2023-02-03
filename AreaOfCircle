@@ -1,0 +1,7 @@
+Step 1 : Start
+Step 2 : Declare the variables r , area  Set pi = 3.14 
+Step 3 : Read the value of r.
+Step 4 : calculate area with pi*r*r formula.
+Step 5 : Store the result in area variable.
+Step 6 : Display area
+Step 7 : Stop 

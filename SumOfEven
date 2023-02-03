@@ -1,0 +1,10 @@
+Step 1 : Start
+Step 2 : Declare the variable num,i,sum.
+Step 3 : Assign i= 1 & sum= 0. 
+Step 4 : read num.
+Step 5 : Reapeat step 6,7,8.
+Step 6 : If i%2==0 goto Step 7
+Step 7 : Calculate sum=sum+i.
+Step 8 : Calculate i=i+1.
+Step 9 : Display sum.
+Step 10: Stop
